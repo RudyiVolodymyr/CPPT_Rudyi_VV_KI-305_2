@@ -1,0 +1,22 @@
+Size of stove for cooking: 0.3 m^2.
+Weight of stove for cooking: 39.983999999999995 kg.
+Color of stove for cooking: White.
+New color of audio player is Red.
+New color of audio player is 0.6x0.6x0.8 .
+Size of stove for cooking: 0.36 m^2.
+Weight of stove for cooking: 47.980799999999995 kg.
+Color of stove for cooking: Red.
+Burner occupy 176.625 cm^2 of size.
+You can tap the power up button 23232232 more times.
+You tap the power up button.
+You tap the power up button.
+You tap the power up button.
+You tap the power up button.
+You tap the power up button.
+You tap the power down button.
+You tap the power down button.
+You tap the power down button.
+You tap the power down button.
+You can tap the power down button 23232228 more times.
+You press the power down button.
+You press the power up button.

@@ -1,0 +1,11 @@
+New color of stove for cooking is Black.
+Size of stove for cooking: 0.3 m^2.
+Weight of stove for cooking: 39.983999999999995 kg.
+Color of stove for cooking: Black.
+The amount of gas in the cylinder: 50 L.
+Burner occupy 176.625 cm^2 of size.
+You press the power up button.
+You press the power down button.
+The stove is heating up.
+The stove is working 25 min.
+Amount of gas in the cylinder: 58 L.
